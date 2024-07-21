@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	{
 		array_variable[i]=i;
 		System.out.println(array_variable[i]+" ");
+//hello;
 		i++;
 	}
 	
