@@ -1,5 +1,3 @@
-package org.javprog;
-
 public class JavPrg {
 public static void main(String[] args) {
 	int array_variable[]=new int[10];
